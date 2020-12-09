@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "582095536367",
+    "firebase_url": "https://storeapp-f952a.firebaseio.com",
+    "project_id": "storeapp-f952a",
+    "storage_bucket": "storeapp-f952a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582095536367:android:defab1603ad52668c65b1a",
+        "android_client_info": {
+          "package_name": "pl.barlomiej.calko.storeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582095536367-sia72bsdhvdir7h54h2i6gi269v837lg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.barlomiej.calko.storeapp",
+            "certificate_hash": "62c2c1732840ecb3db801b3726e6059e61c651c1"
+          }
+        },
+        {
+          "client_id": "582095536367-o9s8ls5vad9j4fi7q0veu2p9jbgpv1jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZLQ6Gz-bconUcWXQSl5-uG1GygSECxnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582095536367-o9s8ls5vad9j4fi7q0veu2p9jbgpv1jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
